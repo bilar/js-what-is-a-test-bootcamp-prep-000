@@ -1,1 +1,1 @@
-var name =re
+var name =require(/..index)
