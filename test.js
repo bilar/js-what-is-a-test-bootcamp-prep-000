@@ -1,1 +1,1 @@
-var name =require(/..index)
+var name =require("../index.js")
